@@ -6,6 +6,7 @@ end
 addhook("move", "checkIfOnTile")
 addhook("always", "slider")
 addhook("startround", "resetSlide")
+
 ---------------Config---------------
 -- Speed
 speed = 10
